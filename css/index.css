@@ -41,3 +41,15 @@ p{
 	font-size: 1.5em;
 	line-height: 1.75em;
 }
+
+.button{
+	margin-top: 50pc;
+	width: 100%;
+	text-align: center;
+	margin: auto;
+}
+
+#privacyPolicy{
+	max-width: 80%;
+	margin: auto;
+}
